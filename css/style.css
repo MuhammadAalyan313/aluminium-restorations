@@ -255,7 +255,7 @@ button {
      padding: 20px 25px;
      position: fixed;
      z-index: 9;
-     background: url(../images/header.jpg);
+     background: url(../images/header.jpeg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -293,11 +293,11 @@ ul.site_menu li a {
 }
 
 .sidepanel a:hover {
-     color: #f3cf2d;
+     color: #00246B;
 }
 
 .sidepanel a.active {
-     color: #f3cf2d;
+     color: #00246B;
 }
 
 .sidepanel .closebtn {
@@ -318,7 +318,7 @@ ul.site_menu li a {
 /** banner section **/
 
 .full_bg {
-     background: url(../images/banner1.jpeg);
+     background: url(../images/banner1.png);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -457,7 +457,7 @@ ul.site_menu li a {
 
 .read_more {
      font-size: 17px;
-     background-color: #030303;
+     background-color: #8AAAE5;
      color: #fff;
      padding: 16px 0px;
      width: 100%;
@@ -470,7 +470,7 @@ ul.site_menu li a {
 }
 
 .read_more:hover {
-     background: #f3cf2d;
+     background: #00246B;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -531,7 +531,7 @@ ul.site_menu li a {
 
 .about_img figure img {
      border-radius: 300%;
-     border: #f6dc67ab solid 35px;
+     border: #8AAAE5 solid 35px;
      text-align: center;
      margin: 0 auto;
      display: block;
@@ -549,7 +549,7 @@ ul.site_menu li a {
 
 .products {
      padding: 90px 0;
-     background-color: #030303;
+     background-color: #8AAAE5;
 }
 
 .products .titlepage h2 {
@@ -564,7 +564,7 @@ ul.site_menu li a {
 }
 
 .product {
-     background-color: #f3cf2d;
+     background-color: #00246B;
      padding: 33px 10px;
 }
 
@@ -593,7 +593,7 @@ ul.site_menu li a {
 }
 
 .products .read_more:hover {
-     background-color: #f3cf2d;
+     background-color: #00246B;
 }
 
 .banner_pro {
@@ -616,7 +616,7 @@ ul.site_menu li a {
 #prod .carousel-control-next:hover,
 #prod .carousel-control-prev:focus,
 #prod .carousel-control-next:focus {
-     background: #f3cf2d;
+     background: #00246B;
      color: #fff;
 }
 
@@ -648,7 +648,7 @@ ul.site_menu li a {
 }
 
 .bg_yeloow {
-     background: #f3cf2d;
+     background: #00246B;
      padding: 50px 0;
 }
 
@@ -716,7 +716,7 @@ ul.site_menu li a {
 /** footer **/
 
 .footer {
-     background: #212120;
+     background: #00246B;
      padding-top: 90px;
      text-align: center;
 }
@@ -754,7 +754,7 @@ ul.site_menu li a {
 .sunm_btn {
      font-size: 17px;
      transition: ease-in all 0.5s;
-     background-color: #f3cf2d;
+     background-color: #00246B;
      text-transform: uppercase;
      color: #fff;
      max-width: 156px;
@@ -825,7 +825,7 @@ ul.social_icon li a i {
 }
 
 ul.social_icon li a i:hover {
-     color: #f3cf2d;
+     color: #00246B;
      background: #fff;
      transition: ease-in all 0.5s;
 }
@@ -850,8 +850,13 @@ ul.social_icon li a i:hover {
 }
 
 .copyright a:hover {
-     color: #f3cf2d;
+     color: #00246B;
 }
 
 
 /** end footer **/
+/* custom */
+#dropdownMenuButton{
+     width: 100%;
+     text-align: left;
+}
