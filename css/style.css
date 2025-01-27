@@ -452,9 +452,9 @@ ul.site_menu li a {
 .d_flex {
      display: flex;
      align-items: center;
-     flex-wrap: wrap;
+     flex-wrap: wrap; 
 }
-
+/* cxvcxv xv v  */
 .read_more {
      font-size: 17px;
      background-color: #8AAAE5;
